@@ -24,12 +24,3 @@ Votey Bd 213F
 33 Colchester Ave,
 Burlington, VT. USA 05405
 E-mail: scott.tighe@uvm.edu
-
-Jason M. Wood			woodinsitu@gmail.com; 0000-0002-0847-4695
-Scott Tighe 			scott.tighe@uvm.edu; 0000-0002-3988-0741
-Camilla Urbaniak 		camilla.urbaniak@jpl.nasa.gov; 0000-0002-4915-4786
-Ceth Parker 			ceth.w.parker@jpl.nasa.gov; 0000-0002-4328-490X
-Nitin Kumar Singh 		mail2nitinks@gmail.com; 0000-0001-5344-1190
-Season Wong 			season.wong@aibiosciences.com; 0000-0001-5264-0286
-Brent M. Peyton		bpeyton@montana.edu; 0000-0003-0033-0651 
-Kasthuri Venkateswaran	kjvenkat1955@gmail.com; 0000-0002-6742-0873
